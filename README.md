@@ -1,5 +1,24 @@
 # Credit Approval System
 
+## Sample UI Screenshot
+<p align="center">
+  <img src="images/Screenshot (14).png" width="1000" />
+</p>
+_
+
+## Project Screenshots
+
+<p align="center">
+  <img src="images/Screenshot (13).png" width="1000" />
+</p>
+<br></br>
+
+### Docker Desktop - Running Containers
+<p align="center">
+  <img src="images/Screenshot (15).png" width="1000" />
+</p>
+
+
 ## Running the System
 
 1. **Build and start all services:**
@@ -147,16 +166,7 @@ docker-compose exec web python manage.py createsuperuser
 - Logging and monitoring
 - Simple backend UI for registration
 
-## Sample UI Screenshot
-![Registration UI](images/register_ui_sample.png)
 
-> _Replace the above image with an actual screenshot of your UI. Place the image in a folder named `images` in your repo._
 
-## Project Screenshots
 
-### Docker Desktop - Running Containers
-![Docker Desktop Screenshot](images/docker_desktop_screenshot.png)
 
-> _To add more screenshots, place your images in the `images` folder and reference them here using markdown: ![Description](images/your_image.png)_
-
-If you want to add more specific images or need help with image formatting, let me know!
